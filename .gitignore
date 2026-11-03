@@ -1,0 +1,5 @@
+build/
+AGENTS.md
+build-asan/
+.vscode/
+cmake-build-*/
